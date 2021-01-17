@@ -5,6 +5,6 @@
   (libraries)
   (wrapped false)
   (foreign_stubs (language c) (names ojs_runtime_stubs))
-  (modes byte)
+  (modes byte native)
   (js_of_ocaml (javascript_files ojs_runtime.js))
   )
